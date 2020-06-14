@@ -1,11 +1,3 @@
-Como funciona git
+Testando o envio de novas informações para o Github
 
-Vamos adicionar novas linhas
-
-Yan lindo
-
-Gostou de comer biscoito? Coma melhor sempre que possível
-
-Mudança desagradável
-
-PORRRRRAAAA MANUUUU
+<jgevelinoliveira@gmail.com>
